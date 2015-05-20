@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IBM_OnPremiseWeb</string>
+
+    <string name="hello_world">Welcome to On Premise Web Test App!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_table">TableActivity</string>
+</resources>
