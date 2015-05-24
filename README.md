@@ -1,10 +1,10 @@
 Mobile app connecting to On-premise web service -  Bluemix Approach
 ===================
 
-Rajesh K Jeyapaul , Cloud Architect , IBM
-Vikas Yadav , IIITB Bangalore
-Daksh Varshneya , IIITB Bangalore
-Suvarna Lingasai V Krishnakumar , IIITB Bangalore
+Rajesh K Jeyapaul , Cloud Architect , IBM<br>
+Vikas Yadav , IIITB Bangalore<br>
+Daksh Varshneya , IIITB Bangalore<br>
+Suvarna Lingasai V Krishnakumar , IIITB Bangalore<br>
 
 Scope:
 ---------
@@ -14,7 +14,7 @@ How my mobile application can access my on-premise web service running on a secu
 
 In this Blog we would like to share our Bluemix experience of solving the above questions.
 
-![Architecture Overview](assets/firewall.jpg)
+![Architecture Overview](https://raw.github.com/vik-y/On-Premise-Web-Service-IBM-Bluemix/master/assets/firewall.png)
 
 
 Step 1:
@@ -235,12 +235,3 @@ Sample source code available at : https://github.com/vik-y/On-Premise-Web-Servic
 
 
 Happy Bluemix Experience
-
-You can also render sequence diagrams like this:
-
-
-
-
-
-
-
